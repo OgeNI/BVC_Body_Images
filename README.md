@@ -20,4 +20,10 @@ A formal request is required to use the BVC-body data
 A formal request is required to use the BVC-Body data. 
 A researcher requesting for any of these datasets is required to fill a formal agreement and return to us via his/her institutional email.  
 
-Send your request for our face and body datasets to Ogechukwu.iloanusi@unn.edu.ng or oge@biometricsvision.com
+Send your request for our face and body datasets to any of the following emails:
+
+oge.n.iloanusi@nd.edu 
+
+Ogechukwu.iloanusi@unn.edu.ng 
+
+oge@biometricsvision.com
